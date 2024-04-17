@@ -9,10 +9,10 @@ HEO_HERO_REVERSE: false,
 HEO_HERO_BODY_REVERSE: false,
 // 英雄区(首页顶部大卡)
 HEO_HERO_TITLE_1: '分享运营经验',
-HEO_HERO_TITLE_2: '出海知识 前沿科技',
+HEO_HERO_TITLE_2: '出海知识',
 HEO_HERO_TITLE_3: 'jessiejiang.xyz',
 HEO_HERO_TITLE_4: '出海运营专区',
-HEO_HERO_TITLE_5: '出海营销/海外用户运营/AI技术',
+HEO_HERO_TITLE_5: '出海营销和用户运营/AI应用',
 HEO_HERO_TITLE_LINK: 'https://jessiejiang.xyz/',
 // 英雄区显示三个置顶分类
 HEO_HERO_CATEGORY_1: { title: '原创精选', url: '/tag/推荐' },
